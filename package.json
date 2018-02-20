@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/Rahool1/node_gps_tracking_server#readme",
   "dependencies": {
-    "gps-tracking": "^1.1.1",
     "crc16-ccitt-node": "^1.0.4",
     "node.extend": "*"
   }
