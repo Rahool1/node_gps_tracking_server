@@ -1,0 +1,22 @@
+{
+  "name": "node_gps_tracking_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahool1/node_gps_tracking_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahool1/node_gps_tracking_server/issues"
+  },
+  "homepage": "https://github.com/Rahool1/node_gps_tracking_server#readme",
+  "dependencies": {
+    "gps-tracking": "^1.1.1"
+  }
+}
